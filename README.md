@@ -30,7 +30,8 @@
 ### 🏆 Certifications
 
 - ✅ Google Cloud Computing Foundations – NPTEL  
-- ✅ Data Analytics with Python – NPTEL  
+- ✅ Data Analytics with Python – NPTEL
+- ✅ Git for Beginners - Udemy
 - ✅ Typewriting English (Senior & Junior Grades) – Government of Tamil Nadu  
 
 ---
