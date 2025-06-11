@@ -32,13 +32,14 @@
 AI-powered CNN model to classify 9 types of waste using TensorFlow and Keras.  
 🖥️ Deployed using Streamlit and Django with real-time image prediction and eco-disposal tips.  
 📱 Mobile-ready with TFLite integration.  
-📊 [Streamlit Demo](https://github.com/b-mahadevan/rubbish-resolver/tree/main/deployment/streamlit/demo) | [Django Demo](https://github.com/b-mahadevan/rubbish-resolver/tree/main/deployment/django/demo)
+📊 [Streamlit](https://github.com/b-mahadevan/rubbish-resolver/tree/main/deployment/streamlit/demo) | [Django](https://github.com/b-mahadevan/rubbish-resolver/tree/main/deployment/django/demo)
 
 #### 🏏 IPL 2024: Best XI Recommendation System
 Built using Python, Power BI, and web scraping.  
 Analyzed IPL 2024 data to recommend an optimal playing XI.  
 📉 Web scraping → Performance metrics → Power BI dashboard  
 🧰 Tools: Pandas, Chrome Extension, Excel, Power BI
+[IPL 2024 Dashboards](https://github.com/b-mahadevan/ipl_2024_smart_xi_selector/tree/main/ipl_2024_dashboard_pages) 
 
 #### 📈 Visualizing Data with Python
 Visualizations using Matplotlib and Plotly for:
@@ -46,6 +47,7 @@ Visualizations using Matplotlib and Plotly for:
 - Weather Data (Sitka, Alaska)  
 - Global Earthquake Mapping (GeoJSON & Plotly)  
 Inspired by *Python Crash Course (3rd Ed)*
+[Earthquake](https://github.com/b-mahadevan/visualizing_data_with_python/blob/main/earthquake_data/eq_data_30_day/output.png) | [Weather](https://github.com/b-mahadevan/visualizing_data_with_python/blob/main/weather_data/output3.png)
 
 ---
 
@@ -65,9 +67,10 @@ Inspired by *Python Crash Course (3rd Ed)*
 
 ### 🏆 Certifications
 
+- ✅ Python Course - Updated [2025] – GeeksforGeeks
+- ✅ Git for Beginners – Udemy 
 - ✅ Google Cloud Computing Foundations – NPTEL  
-- ✅ Data Analytics with Python – NPTEL  
-- ✅ Git for Beginners – Udemy  
+- ✅ Data Analytics with Python – NPTEL   
 - ✅ Typewriting English (Senior & Junior) – Govt. of Tamil Nadu  
 
 ---
@@ -75,13 +78,10 @@ Inspired by *Python Crash Course (3rd Ed)*
 ### 📚 Education
 
 **M.Sc. in Data Science** – Bharathiar University, Coimbatore  
-Core: ML, DL, Big Data, Python, Power BI, Multivariate Analysis  
 
-**B.Sc. in Statistics** – Govt. Arts College, Coimbatore  
-Core: Probability, Inference, DOE, Sampling, Econometrics  
+**B.Sc. in Statistics** – Govt. Arts College, Coimbatore   
 
 **HSC (Maths-Biology)** – PACM Boys HSS, Rajapalayam  
-Tamil Nadu State Board
 
 ---
 
@@ -104,7 +104,6 @@ Tamil Nadu State Board
 📍 Virudhunagar, Tamil Nadu  
 📧 [mahadevanb2002@gmail.com](mailto:mahadevanb2002@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/mahadevanbdatascientist/)  
-📄 [View Resume](link_to_resume_if_uploaded_on_github)
 
 ---
 
