@@ -6,6 +6,13 @@
 
 ---
 
+### 🌐 Portfolio
+
+Check out my personal portfolio website to explore my projects, skills, and more:  
+🔗 [https://portfolio-mahadevan-b.web.app/](https://portfolio-mahadevan-b.web.app/)
+
+---
+
 ### 👨‍💻 About Me
 
 - 🎓 M.Sc. in Data Science | Bharathiar University, Coimbatore (8.52/10.00)
