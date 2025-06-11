@@ -1,8 +1,5 @@
-<!-- GitHub Profile README for Mahadevan B -->
-
-<h1 align="center">Hi 👋, I'm Mahadevan B</h1>
-<h3 align="center">Data Science & Statistics Graduate | Python Enthusiast | Deep Learning Explorer</h3>
-
+<h1 align="center">Hi, I'm Mahadevan B 👋</h1>
+<p align="center">Transforming data into impactful insights and intelligent systems.<br/>Bridging analytics and machine learning to drive real-world innovation.</p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
@@ -11,50 +8,103 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Completed **M.Sc. in Data Science** from Bharathiar University, Coimbatore  
-- 📊 Holds a **B.Sc. in Statistics** from Government Arts College, Coimbatore  
-- 💡 Enthusiastic about **Python**, **Machine Learning**, and **Deep Learning**
+- 🎓 M.Sc. in Data Science | Bharathiar University, Coimbatore (8.52/10.00)
+- 📊 B.Sc. in Statistics | Government Arts College, Coimbatore (8.83/10.00)
+- 💡 Passionate about Data Analysis, Machine Learning, and Deep Learning
+- 🧠 Experienced in real-world projects involving AI, web scraping, data pipelines, and dashboards
+- 🚀 Seeking full-time opportunities in Data Science / ML / Data Analytics
 
 ---
 
 ### 🧠 Technical Skills
 
-- **Languages:** Python, SQL, Java  
-- **ML/AI:** Machine Learning, Deep Learning, TensorFlow, CNNs, FastAPI  
-- **Tools:** Excel, Web Scraping, DBMS  
-- **Frameworks:** Streamlit, Django  
-- **Others:** Canva, Git & GitHub  
+**Languages:** Python, SQL, Java  
+**Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, FastAPI, Django, Streamlit  
+**Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau  
+**Tools & Tech:** Git, GitHub, Excel, Canva, DBMS, Web Scraping (Selenium & Extensions), TFLite  
+**Cloud:** Google Cloud Platform  
 
 ---
 
-### 🏆 Certifications
+### 📊 Projects
 
-- ✅ Google Cloud Computing Foundations – NPTEL  
-- ✅ Data Analytics with Python – NPTEL
-- ✅ Git for Beginners - Udemy
-- ✅ Typewriting English (Senior & Junior Grades) – Government of Tamil Nadu  
+#### ♻️ Rubbish Resolver – Waste Classification System
+AI-powered CNN model to classify 9 types of waste using TensorFlow and Keras.  
+🖥️ Deployed using Streamlit and Django with real-time image prediction and eco-disposal tips.  
+📱 Mobile-ready with TFLite integration.  
+📊 [Streamlit Demo](https://github.com/b-mahadevan/rubbish-resolver/tree/main/deployment/streamlit/demo) | [Django Demo](https://github.com/b-mahadevan/rubbish-resolver/tree/main/deployment/django/demo)
+
+#### 🏏 IPL 2024: Best XI Recommendation System
+Built using Python, Power BI, and web scraping.  
+Analyzed IPL 2024 data to recommend an optimal playing XI.  
+📉 Web scraping → Performance metrics → Power BI dashboard  
+🧰 Tools: Pandas, Chrome Extension, Excel, Power BI
+
+#### 📈 Visualizing Data with Python
+Visualizations using Matplotlib and Plotly for:
+- Random Walks & Dice Rolls  
+- Weather Data (Sitka, Alaska)  
+- Global Earthquake Mapping (GeoJSON & Plotly)  
+Inspired by *Python Crash Course (3rd Ed)*
 
 ---
 
 ### 💼 Work Experience
 
 **🔹 Data Analyst Intern** – *Lets Unbound* (Nov 2024 – Present)  
-- Processed 5,000+ LinkedIn profiles via Apollo & Sales Navigator  
-- Cleaned 10,000+ entries in Excel, boosting data accuracy  
-- Automated data handling using Python, saving 30% manual effort
+- Scraped 5,000+ LinkedIn profiles via Apollo & Sales Navigator  
+- Cleaned 10,000+ records using Python & Excel  
+- Automated data extraction of 50,000+ points, saving 30% manual effort
 
-**🔹 Maths Content Associate Intern** – *Lets Unbound* (Dec 2023 – Feb 2025)  
-- Designed 100+ math presentations using Canva  
-- Developed mock tests for 11+, SCAT, and Math Kangaroo  
-- Contributed to resources used by over 500 students
+**🔹 Maths Content Associate Intern** – *Lets Unbound* (Dec 2023 – May 2025)  
+- Created 100+ interactive math presentations with Canva  
+- Developed mock exams for 11+, SCAT, Math Kangaroo  
+- Resources used by 500+ students globally
+
+---
+
+### 🏆 Certifications
+
+- ✅ Google Cloud Computing Foundations – NPTEL  
+- ✅ Data Analytics with Python – NPTEL  
+- ✅ Git for Beginners – Udemy  
+- ✅ Typewriting English (Senior & Junior) – Govt. of Tamil Nadu  
+
+---
+
+### 📚 Education
+
+**M.Sc. in Data Science** – Bharathiar University, Coimbatore  
+Core: ML, DL, Big Data, Python, Power BI, Multivariate Analysis  
+
+**B.Sc. in Statistics** – Govt. Arts College, Coimbatore  
+Core: Probability, Inference, DOE, Sampling, Econometrics  
+
+**HSC (Maths-Biology)** – PACM Boys HSS, Rajapalayam  
+Tamil Nadu State Board
+
+---
+
+### 🧰 Skills & Expertise
+
+| Area               | Proficiency |
+|--------------------|-------------|
+| Machine Learning   | 🔹🔹🔹🔹🔹     |
+| Deep Learning      | 🔹🔹🔹🔹       |
+| Data Visualization | 🔹🔹🔹🔹🔹     |
+| Statistics         | 🔹🔹🔹🔹🔹     |
+| Data Cleaning      | 🔹🔹🔹🔹🔹     |
+| Web Scraping       | 🔹🔹🔹🔹       |
+| GCP                | 🔹🔹🔹         |
 
 ---
 
 ### 📫 Get in Touch
 
-📍 Virudhunagar  
+📍 Virudhunagar, Tamil Nadu  
 📧 [mahadevanb2002@gmail.com](mailto:mahadevanb2002@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/mahadevanbdatascientist/)
+🔗 [LinkedIn](https://linkedin.com/in/mahadevanbdatascientist/)  
+📄 [View Resume](link_to_resume_if_uploaded_on_github)
 
 ---
 
