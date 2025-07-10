@@ -19,7 +19,7 @@ Check out my personal portfolio website to explore my projects, skills, and more
 - 📊 B.Sc. in Statistics | Government Arts College, Coimbatore (8.83/10.00)
 - 💡 Passionate about Data Analysis, Machine Learning, and Deep Learning
 - 🧠 Experienced in real-world projects involving AI, web scraping, data pipelines, and dashboards
-- 🚀 Seeking full-time opportunities in Data Science / ML / Data Analytics
+- 🚀 Seeking full-time opportunities in Data Scientist / ML Engineer / Data Analyst / BI Analyst
 
 ---
 
