@@ -74,10 +74,17 @@ Inspired by *Python Crash Course (3rd Ed)*
 
 ### 🏆 Certifications
 
+- ✅ British Airways - Data Science Job Simulation – Forage
+- ✅ Supervised Machine Learning: Regression and Classification – Stanford University
+- ✅ Advanced Guide to ChatGPT, Embeddings, and Other Large Language Models (LLMs) – LinkedIn
+- ✅ NLP with Python for Machine Learning Essential Training – LinkedIn
+- ✅ Data Analysis with Python and Pandas – LinkedIn
+- ✅ NumPy Essential Training: Foundations of NumPy – LinkedIn
 - ✅ Python Course - Updated [2025] – GeeksforGeeks
-- ✅ Git for Beginners – Udemy 
-- ✅ Google Cloud Computing Foundations – NPTEL  
-- ✅ Data Analytics with Python – NPTEL   
+- ✅ Data Analytics with Python – NPTEL 
+- ✅ Google Cloud Computing Foundations – NPTEL
+- ✅ Git for Beginners – Udemy  
+- ✅ Soft Skills Training – Infosys BPM  
 - ✅ Typewriting English (Senior & Junior) – Govt. of Tamil Nadu  
 
 ---
