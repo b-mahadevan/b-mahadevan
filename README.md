@@ -6,24 +6,16 @@
 
 ---
 
-### 🌐 Portfolio
-
-Check out my personal portfolio website to explore my projects, skills, and more:  
-🔗 [https://portfolio-mahadevan-b.web.app/](https://portfolio-mahadevan-b.web.app/)
-
----
-
-### 👨‍💻 About Me
+### About Me
 
 - 🎓 M.Sc. in Data Science | Bharathiar University, Coimbatore (8.52/10.00)
-- 📊 B.Sc. in Statistics | Government Arts College, Coimbatore (8.83/10.00)
+- 🎓 B.Sc. in Statistics | Government Arts College, Coimbatore (8.83/10.00)
 - 💡 Passionate about Data Analysis, Machine Learning, and Deep Learning
 - 🧠 Experienced in real-world projects involving AI, web scraping, data pipelines, and dashboards
-- 🚀 Seeking full-time opportunities in Data Scientist / ML Engineer / Data Analyst / BI Analyst
 
 ---
 
-### 🧠 Technical Skills
+### Technical Skills
 
 **Languages:** Python, SQL, Java  
 **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, FastAPI, Django, Streamlit  
@@ -33,7 +25,7 @@ Check out my personal portfolio website to explore my projects, skills, and more
 
 ---
 
-### 📊 Projects
+### Projects
 
 #### ♻️ Rubbish Resolver – Waste Classification System
 AI-powered CNN model to classify 9 types of waste using TensorFlow and Keras.  
@@ -58,7 +50,7 @@ Inspired by *Python Crash Course (3rd Ed)*
 
 ---
 
-### 💼 Work Experience
+### Work Experience
 
 **🔹 Data Analyst Intern** – *Lets Unbound* (Nov 2024 – Present)  
 - Scraped 5,000+ LinkedIn profiles via Apollo & Sales Navigator  
@@ -99,7 +91,7 @@ Inspired by *Python Crash Course (3rd Ed)*
 
 ---
 
-### 🧰 Skills & Expertise
+### Skills & Expertise
 
 | Area               | Proficiency |
 |--------------------|-------------|
@@ -113,16 +105,10 @@ Inspired by *Python Crash Course (3rd Ed)*
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 
 📍 Virudhunagar, Tamil Nadu  
 📧 [mahadevanb2002@gmail.com](mailto:mahadevanb2002@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/mahadevanbdatascientist/)  
-
----
-
-### ✨ Fun Fact
-
-> "With just a few lines of Python, you can teach machines to recognize faces, understand voices, and even drive cars — that’s the power of Machine Learning and Deep Learning!"
 
 ---
