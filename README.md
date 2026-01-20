@@ -38,6 +38,8 @@ Visualizations using Matplotlib and Plotly for:
 Inspired by *Python Crash Course (3rd Ed)*
 [Earthquake](https://github.com/b-mahadevan/visualizing_data_with_python/blob/main/earthquake_data/eq_data_30_day/output.png) | [Weather](https://github.com/b-mahadevan/visualizing_data_with_python/blob/main/weather_data/output3.png)
 
+---
+
 ### 🏆 Certifications
 
 - ✅ British Airways - Data Science Job Simulation – Forage
