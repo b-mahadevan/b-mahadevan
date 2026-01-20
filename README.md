@@ -8,20 +8,10 @@
 
 ### About Me
 
-- 🎓 M.Sc. in Data Science | Bharathiar University, Coimbatore (8.52/10.00)
-- 🎓 B.Sc. in Statistics | Government Arts College, Coimbatore (8.83/10.00)
+- 🎓 M.Sc. in Data Science | Bharathiar University, Coimbatore
+- 🎓 B.Sc. in Statistics | Government Arts College, Coimbatore
 - 💡 Passionate about Data Analysis, Machine Learning, and Deep Learning
 - 🧠 Experienced in real-world projects involving AI, web scraping, data pipelines, and dashboards
-
----
-
-### Technical Skills
-
-**Languages:** Python, SQL, Java  
-**Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, FastAPI, Django, Streamlit  
-**Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau  
-**Tools & Tech:** Git, GitHub, Excel, Canva, DBMS, Web Scraping (Selenium & Extensions), TFLite  
-**Cloud:** Google Cloud Platform  
 
 ---
 
@@ -48,22 +38,6 @@ Visualizations using Matplotlib and Plotly for:
 Inspired by *Python Crash Course (3rd Ed)*
 [Earthquake](https://github.com/b-mahadevan/visualizing_data_with_python/blob/main/earthquake_data/eq_data_30_day/output.png) | [Weather](https://github.com/b-mahadevan/visualizing_data_with_python/blob/main/weather_data/output3.png)
 
----
-
-### Work Experience
-
-**🔹 Data Analyst Intern** – *Lets Unbound* (Nov 2024 – Present)  
-- Scraped 5,000+ LinkedIn profiles via Apollo & Sales Navigator  
-- Cleaned 10,000+ records using Python & Excel  
-- Automated data extraction of 50,000+ points, saving 30% manual effort
-
-**🔹 Maths Content Associate Intern** – *Lets Unbound* (Dec 2023 – May 2025)  
-- Created 100+ interactive math presentations with Canva  
-- Developed mock exams for 11+, SCAT, Math Kangaroo  
-- Resources used by 500+ students globally
-
----
-
 ### 🏆 Certifications
 
 - ✅ British Airways - Data Science Job Simulation – Forage
@@ -78,16 +52,6 @@ Inspired by *Python Crash Course (3rd Ed)*
 - ✅ Git for Beginners – Udemy  
 - ✅ Soft Skills Training – Infosys BPM  
 - ✅ Typewriting English (Senior & Junior) – Govt. of Tamil Nadu  
-
----
-
-### 📚 Education
-
-**M.Sc. in Data Science** – Bharathiar University, Coimbatore  
-
-**B.Sc. in Statistics** – Govt. Arts College, Coimbatore   
-
-**HSC (Maths-Biology)** – PACM Boys HSS, Rajapalayam  
 
 ---
 
